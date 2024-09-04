@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate developer from Pune, Maharashtra.<br><br>🌱 B.Tech Student in Computer Engineering @PCCoE<br><br>📫 Reach me at patilpranali453@gmail.com<br><br>⚡ Fun fact: Imperfectly real and perfectly rare!
+A passionate developer from Pune, Maharashtra.<br><br>🌱 B.Tech Student in Computer Engineering @PCCoE<br><br>📫 Reach me at patilpranali453@gmail.com<br><br>⚡ Fun fact: "The future belongs to those who believe in the beauty of their dreams."
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranali-patil-180763292/) 
